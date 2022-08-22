@@ -1,0 +1,1 @@
+import{_ as s,c as a,o as n,a as p}from"./app.ae3c7650.js";const i=JSON.parse('{"title":"Expresiones extensas","description":"","frontmatter":{},"headers":[],"relativePath":"tuto/refactor-c.md"}'),o={name:"tuto/refactor-c.md"},l=p("",5),e=[l];function r(D,c,t,F,y,A){return n(),a("div",null,e)}const d=s(o,[["render",r]]);export{i as __pageData,d as default};

@@ -1,0 +1,1 @@
+import{_ as s,c as a,o as n,a as e}from"./app.ae3c7650.js";const C=JSON.parse('{"title":"M\xE9todos que reciben par\xE1metros","description":"","frontmatter":{},"headers":[],"relativePath":"tuto/refactor-b.md"}'),o={name:"tuto/refactor-b.md"},p=e("",6),l=[p];function r(t,c,D,i,y,F){return n(),a("div",null,l)}const A=s(o,[["render",r]]);export{C as __pageData,A as default};
